@@ -2,11 +2,11 @@
 
 Bem-vindos ao nosso repositório oficial! Aqui documentamos nossa jornada.
 
-Somos uma equipe de apaixonados por robótica da escola Sesi Milton Santos.
+Somos uma equipe de apaixonados por robótica da escola SESI Milton Santos.
 
 Nossa estratégia consiste em realizar as missões agrupadas por áreas.
-* **Missão 1:**
-* **Missão 2:**
+* **Saída 1:**
+* **Saída 2:**
 
 ## 💡 Projeto de Inovação
 Estamos desenvolvendo uma solução para a falta de acessibilidade ao conhecimento para pessoas com deficiência em museus e em sítios arqueológicos.
